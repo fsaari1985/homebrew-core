@@ -1,0 +1,9 @@
+So when I enter, brew install node, I keep getting the following...
+
+2 errors generated.
+make[1]: *** [/private/tmp/node-20210726-40066-17yrqhk/node-v16.5.0/out/Release/obj.target/v8_libplatform/deps/v8/src/libplatform/default-platform.o] Error 1
+make[1]: *** Waiting for unfinished jobs....
+rm eb5a6235cb7ccff4ccfb45f36293b8e8d2b32923.intermediate
+make: *** [node] Error 2
+
+Does anyone have a solution to this?
